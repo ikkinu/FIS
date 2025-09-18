@@ -2,4 +2,4 @@
 
 ## SUBTITULOS
 
-que interesante la vida
+que interesante no tanto la vida
