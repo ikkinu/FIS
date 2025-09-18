@@ -2,4 +2,10 @@
 
 Dicho: el dia de hoy voy a vivir
 
-Numbers: 1234567
+
+Numbers: ex 1234567
+
+- "1234567"
+- "5678"
+- "15000"
+
